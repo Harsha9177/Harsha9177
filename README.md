@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I am an automation test engineer with extensive ex
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha9177" alt="harsha9177" /></a> </p>
 
-- 🔭 I’m currently working on **USGS API Testing**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Jmeter**
+- 🌱 I’m currently learning 
 
 - 👯 I’m looking to collaborate on **Automation Testing Projects**
 
