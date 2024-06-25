@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am an automation test engineer with extensive ex
 
 - 🔭 I’m currently working on **USGS API Testing**
 
-- 🌱 I’m currently learning **Jenkins**
+- 🌱 I’m currently learning **Jmeter**
 
 - 👯 I’m looking to collaborate on **Automation Testing Projects**
 
