@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Pabboju</h1>
 <h3 align="center">A passionate Automation Test Engineer from India</h3>
 <p> <h4>Summary</h4>
-Welcome to my GitHub profile! I am an automation test engineer with extensive experience in creating robust automated test solutions for web applications and APIs. My skill set includes a range of tools and technologies such as Selenium, Cypress, Postman, SoapUI, Rest Assured, Cucumber, TestNG, data-driven testing (DDT),Page Object Model, JavaScript, Chai and Mocha, HTML, and CSS.</p>
+Welcome to my GitHub profile! I am an automation test engineer with extensive experience in creating robust automated test solutions for web applications and APIs. My skill set includes a range of tools and technologies such as Selenium, Cypress, Postman, SoapUI, Rest Assured, Cucumber, TestNG, data-driven testing (DDT),Page Object Model, JavaScript,HTML, and CSS.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsha9177&label=Profile%20views&color=0e75b6&style=flat" alt="harsha9177" /> </p>
 
