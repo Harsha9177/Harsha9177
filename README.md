@@ -54,11 +54,6 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 * \:paperclip: [My Resume/CV](#) *(Add your resume link)*
 * \:email: **[pabbojuharshavardhan@gmail.com](mailto:pabbojuharshavardhan@gmail.com)**
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshavardhan.harshavardhan)
-
----
 
 <details>
 <summary>More about me</summary>
@@ -76,12 +71,6 @@ I’m passionate about building robust and scalable automation solutions, and I 
 
 ---
 
-#### GitHub Stats
-
-![Harshavardhan's github stats](https://github-readme-stats.vercel.app/api?username=harshavardhan-pabboju\&count_private=true\&theme=tokyonight\&hide=contribs,prs)
 
 </details>
 
----
-
-Let me know if you'd like to make any further changes or add more details!
