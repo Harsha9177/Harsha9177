@@ -1,110 +1,87 @@
-## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+Sure! Here's the updated profile with **qTest** added under Project Management tools:
 
-🚀 Check out my New Portfolio [islemmaboud.com](https://islemmaboud.com) 
+---
 
-I'm Islem Maboud a Full Stack Web Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of my time coding outstanding projects or recording tutorials.
+## Hi, I'm Harshavardhan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-Learn how to write clean-code in React using my new book:
-[solidreact.dev](https://solidreact.dev)
+🚀 Check out my New Portfolio [HarshavardhanPabboju.com](#) *(Add your portfolio URL)*
 
-:mailbox: Reach me out!
+I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **Functional Testing**, **Security Testing**, **Automation Testing**, **API Testing**, and ensuring software quality through rigorous test strategies and automation frameworks.
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+### Skills & Tools
 
-### CoderOne Newsletter
-Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
+* **Languages**: Java, HTML/CSS, JavaScript, TypeScript, SQL
+* **Automation Testing Tools**: Selenium, Cypress, Playwright, Postman, SoapUI
+* **Security Testing**: OWASP ZAP, Burp Suite
+* **Functional Testing**: Manual Testing, TestNG, JUnit
+* **API Testing**: Rest Assured, Postman
+* **Version Control**: Git, GitHub
+* **CI/CD & Build Tools**: Jenkins, Maven
+* **Project Management**: Jira, TestLink, **qTest**
+* **Operating Systems**: Windows, Linux
 
-👉 [Join Here](https://islemmaboud.com/join-newsletter)
+### What I Currently Do
 
+* 🔭 Currently working as a **QA Engineer**
+* 🧪 Specializing in functional and security testing for web and mobile applications
+* 📦 Building and maintaining automated test frameworks for continuous integration
+* 💡 Developing and executing test cases for APIs and web applications
+* 📫 Reach me via: **[pabbojuharshavardhan@gmail.com](mailto:pabbojuharshavardhan@gmail.com)**
+* 😄 Pronouns: **Harshavardhan**, **QA Engineer**
+* ⚡ Fun fact: I enjoy **gaming** and **learning about new technologies** in my free time!
 
-<!-- TODO: Add last video link -->
+### Top Technologies
 
-### What I currently Do
+[![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)](#)
+[![Cypress Badge](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)](#)
+[![OWASP ZAP Badge](https://img.shields.io/badge/-OWASP%20ZAP-7a3c02?style=for-the-badge\&logo=owasp\&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](#)
+[![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)](#)
 
-- 🔭 I’m currently working at @Perigon
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+---
 
-#### Top Technologies
+### Connect With Me
 
-<!-- TODO: Make technologies links takes you to repositories -->
+[![Twitter Badge](https://img.shields.io/badge/-@HarshaQA-1ca0f1?style=flat\&labelColor=1ca0f1\&logo=twitter\&logoColor=white\&link=https://twitter.com/HarshaQA)](https://twitter.com/HarshaQA)
+[![LinkedIn Badge](https://img.shields.io/badge/-Harshavardhan-0e76a8?style=flat\&labelColor=0e76a8\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshavardhan-pabboju/)
+[![Gmail Badge](https://img.shields.io/badge/-pabbojuharshavardhan-c0392b?style=flat\&labelColor=c0392b\&logo=gmail\&logoColor=white)](mailto:pabbojuharshavardhan@gmail.com)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-### Tutorials
-
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
-<br />
-<br />
+---
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf)
-- :email: ipenywis@gmail.com
 
+* \:paperclip: [My Resume/CV](#) *(Add your resume link)*
+* \:email: **[pabbojuharshavardhan@gmail.com](mailto:pabbojuharshavardhan@gmail.com)**
 
-#### Profile Visits 
+#### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harshavardhan.harshavardhan)
+
+---
 
 <details>
-<summary>
-  More stuff about me
-</summary>
+<summary>More about me</summary>
 
-<br >
+<br>
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I’m passionate about building robust and scalable automation solutions, and I love sharing my knowledge with the QA community. Through writing blogs, creating tutorials, and providing real-world testing examples, I aim to help other engineers achieve the best in **QA** and **Automation Testing**.
 
-#### What is CoderOne?
+#### My Focus Areas:
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+* **Functional Testing**: Ensuring that all features of an application work as expected
+* **Security Testing**: Assessing vulnerabilities and securing applications against malicious threats
+* **Automation**: Reducing manual work by creating efficient, scalable automated test scripts
+* **API Testing**: Verifying the performance, security, and functionality of APIs
 
-#### Coding Stats
+---
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+#### GitHub Stats
 
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Harshavardhan's github stats](https://github-readme-stats.vercel.app/api?username=harshavardhan-pabboju\&count_private=true\&theme=tokyonight\&hide=contribs,prs)
 
 </details>
 
+---
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
+Let me know if you'd like to make any further changes or add more details!
