@@ -1,7 +1,10 @@
 
+
 ## Hi, I'm Harshavardhan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Check out my New Portfolio [HarshavardhanPabboju.com](#) *(Add your portfolio URL)*
+🚀 Check out my New Portfolio [url](#) *(Add your portfolio URL)*
+🚀 Check out my Behance Portfolio [url](#) *(Add your portfolio URL)*
+
 
 I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **Functional Testing**, **Security Testing**, **Automation Testing**, **API Testing**, and ensuring software quality through rigorous test strategies and automation frameworks.
 
@@ -9,7 +12,7 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 
 * **Languages**: Java, HTML/CSS, JavaScript, TypeScript, SQL
 * **Automation Testing Tools**: Selenium, Cypress, Playwright, Postman, SoapUI
-* **Security Testing**: OWASP ZAP, Burp Suite
+* **Security Testing**: **OWASP ZAP**, **Burp Suite**
 * **Functional Testing**: Manual Testing, TestNG, JUnit
 * **API Testing**: Rest Assured, Postman
 * **Version Control**: Git, GitHub
@@ -32,6 +35,7 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 [![Selenium Badge](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)](#)
 [![Cypress Badge](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge\&logo=cypress\&logoColor=white)](#)
 [![OWASP ZAP Badge](https://img.shields.io/badge/-OWASP%20ZAP-7a3c02?style=for-the-badge\&logo=owasp\&logoColor=white)](#)
+[![Burp Suite Badge](https://img.shields.io/badge/-Burp%20Suite-6600CC?style=for-the-badge\&logo=burp\&logoColor=white)](#)
 [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](#)
 [![Jenkins Badge](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)](#)
@@ -51,6 +55,8 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 * \:paperclip: [My Resume/CV](#) *(Add your resume link)*
 * \:email: **[pabbojuharshavardhan@gmail.com](mailto:pabbojuharshavardhan@gmail.com)**
 
+
+---
 
 <details>
 <summary>More about me</summary>
