@@ -26,7 +26,7 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 * 💡 Developing and executing test cases for APIs and web applications
 * 📫 Reach me via: **[pabbojuharshavardhan@gmail.com](mailto:pabbojuharshavardhan@gmail.com)**
 * 😄 Pronouns: **Harshavardhan**, **QA Engineer**
-* ⚡ Fun fact: **learning about new technologies** in my free time!
+* ⚡ fact: **learning about new technologies** in my free time!
 
 ### Top Technologies
 
