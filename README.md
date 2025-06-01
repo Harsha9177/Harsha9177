@@ -3,7 +3,6 @@
 ## Hi, I'm Harshavardhan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 🚀 Check out my New Portfolio [url](#) *(Add your portfolio URL)*
-🚀 Check out my Behance Portfolio [url](#) *(Add your portfolio URL)*
 
 
 I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **Functional Testing**, **Security Testing**, **Automation Testing**, **API Testing**, and ensuring software quality through rigorous test strategies and automation frameworks.
@@ -13,7 +12,8 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 * **Languages**: Java, HTML/CSS, JavaScript, TypeScript, SQL
 * **Automation Testing Tools**: Selenium, Cypress, Playwright, Postman, SoapUI
 * **Security Testing**: **OWASP ZAP**, **Burp Suite**
-* **Functional Testing**: Manual Testing, TestNG, JUnit
+* **Functional Testing**: Manual Testing
+* **Frameworks**: Cucumber BDD, TestNG, JUnit
 * **API Testing**: Rest Assured, Postman
 * **Version Control**: Git, GitHub
 * **CI/CD & Build Tools**: Jenkins, Maven
