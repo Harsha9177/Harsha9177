@@ -44,7 +44,6 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 
 ### Connect With Me
 
-[![Twitter Badge](https://img.shields.io/badge/-@HarshaQA-1ca0f1?style=flat\&labelColor=1ca0f1\&logo=twitter\&logoColor=white\&link=https://twitter.com/HarshaQA)](https://twitter.com/HarshaQA)
 [![LinkedIn Badge](https://img.shields.io/badge/-Harshavardhan-0e76a8?style=flat\&labelColor=0e76a8\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshavardhan-pabboju/)
 [![Gmail Badge](https://img.shields.io/badge/-pabbojuharshavardhan-c0392b?style=flat\&labelColor=c0392b\&logo=gmail\&logoColor=white)](mailto:pabbojuharshavardhan@gmail.com)
 
@@ -52,7 +51,6 @@ I’m **Harshavardhan Pabboju**, a passionate **QA Engineer** specializing in **
 
 #### Bizness
 
-* \:paperclip: [My Resume/CV](#) *(Add your resume link)*
 * \:email: **[pabbojuharshavardhan@gmail.com](mailto:pabbojuharshavardhan@gmail.com)**
 
 
